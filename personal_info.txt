@@ -1,3 +1,4 @@
 Name: kyle
 Favorite Subject: Science
 Learning Git is fun!
+Learning Git is fun !
